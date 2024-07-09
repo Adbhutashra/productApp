@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922998522812",
+    "project_id": "productapp-fee0a",
+    "storage_bucket": "productapp-fee0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922998522812:android:656d21a31e8709f55ca1b9",
+        "android_client_info": {
+          "package_name": "com.productapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwCqtl0jSjwfz4qcqWBYMGdMaJEIRI1Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
